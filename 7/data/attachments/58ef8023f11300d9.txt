@@ -1,0 +1,4 @@
+{
+    "desired_role": "Backend Engineer",
+    "objective": "I am a software developer, skilled in solving problems with HTML, CSS, Javascript,python, Django and Golang! I contributes to open source projects. I love being on a valuable part of any team I am on and believe in the team rising together. I consider myself a good team player and have the ability to work under pressure."
+}
