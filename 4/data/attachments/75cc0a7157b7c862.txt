@@ -1,0 +1,47 @@
+{
+    "skills": [
+        {
+            "Technical_Skills": [
+                "Financial Reporting",
+                "Risk Management",
+                "Business Development",
+                "Regulatory Compliance",
+                "Mergers and Acquisitions",
+                "Tax Strategy",
+                "Treasury and Liquidity Management",
+                "Budgeting and Forecasting",
+                "Financial Modelling",
+                "All of the above"
+            ],
+            "Soft_Skills": [
+                "Team Leadership",
+                "Team work",
+                "Team Bonding"
+            ],
+            "Certifications": [],
+            "Tools": [
+                "Infoware ERP (Fund and Portfolio Management, Stockbroking)",
+                "Zannibal ERP (Stockbroking, Funds and Portfolio Management)",
+                "Symplus ERP (Funds Management)",
+                "SoftSuit (Payroll Management)",
+                "Microsoft Office Suite",
+                "Python",
+                "Django",
+                "Java"
+            ],
+            "other expertise": [
+                "Footballer",
+                "Senior Development Manager"
+            ]
+        }
+    ],
+    "Achievements": [
+        "Brand Ambassador - Coronation Asset Management 2020/2022",
+        "Collaborated with HR on the development and deployment of payroll management software (Greenwich Limited)",
+        "Team lead for the Finance Unit for the deployment of new ERP (Symplus) for fund management and accounting (Greenwich Ltd)",
+        "Developed a financial model for effective budgeting (Greenwich Limited & Coronation Limited)"
+    ],
+    "Certifications": [
+        "Associate Chartered Accountant (ACA) - Institute of Chartered Accountants of Nigeria (ICAN) 2017"
+    ]
+}

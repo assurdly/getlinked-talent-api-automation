@@ -1,0 +1,23 @@
+{
+            "id": 1,
+            "talent_full_name": "John Cena",
+            "talent_email": "a@gmail.com",
+            "talent_street": "476 Berty Lane",
+            "talent_city": "Hooray",
+            "talent_state": "Booray",
+            "talent_country": "Afghanistan",
+            "talent_phone_number": "08031111111",
+            "recipient_full_name": "Paul Lionel",
+            "recipient_email": "la@gmail.com",
+            "recipient_street": "Random Street",
+            "recipient_city": "Random City",
+            "recipient_state": "Random State",
+            "recipient_country": "Random States",
+            "recipient_phone_number": "randomnumber",
+            "company_name": "Blaze Alot",
+            "cover_letter_date": "20th, May 2000",
+            "cover_letter_subject": "Remote Tester",
+            "cover_letter_body": "One two buckle my shoe",
+            "selected_template_to_cover": null,
+            "gpt_cover_letter_body": null
+        }
