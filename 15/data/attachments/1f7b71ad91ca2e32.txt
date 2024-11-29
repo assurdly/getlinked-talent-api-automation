@@ -1,0 +1,1 @@
+{"soft_skills":["Empathy","Communication","Critical Thinking","Adaptability","Time Management"],"technical_skills":{"Medical Equipment":["IV pumps","Ventilators"],"Electronic Health Records":["Epic","Cerner"],"Patient Assessment":["Vital signs monitoring","Physical examination"],"Medication Administration":["Dosage calculation","IV administration"]}}

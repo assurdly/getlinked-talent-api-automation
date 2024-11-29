@@ -1,0 +1,46 @@
+{
+    "projects": [
+        {
+            "project_Name": "Freaky-store",
+            "description": "Developed the entire backend functionality, resulting in a seamless user experience. Created the entire layout, ensuring a visually appealing and user-friendly design Implemented SEO strategies, resulting in a 40% increase in organic search traffic.",
+            "dates": "December 30",
+            "descriptions": [
+                {
+                    "title": "",
+                    "image": "",
+                    "description": "Developed the entire backend functionality, resulting in a seamless user experience. Created the entire layout, ensuring a visually appealing and user-friendly design Implemented SEO strategies, resulting in a 40% increase in organic search traffic.",
+                    "team_members": [
+                        {
+                            "team_member_name": "",
+                            "team_member_image": "",
+                            "team_member_contribution": ""
+                        },
+                        {
+                            "team_member_name": "",
+                            "team_member_image": "",
+                            "team_member_contribution": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "",
+                    "image": "",
+                    "description": "",
+                    "team_members": [
+                        {
+                            "team_member_name": "",
+                            "team_member_image": "",
+                            "team_member_contribution": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Project_Name": "Ecommerce",
+            "Description": "Description",
+            "Dates": "August 25",
+            "description":"Developed the entire backend functionality, resulting in a seamless user experience. Created the entire layout, ensuring a visually appealing and user-friendly design Implemented SEO strategies, resulting in a 40% increase in organic search traffic."
+        }
+    ]
+}
