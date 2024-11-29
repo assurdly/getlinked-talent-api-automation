@@ -1,0 +1,23 @@
+{
+    "skills_recommendation": ["Financial Reporting",
+    "Budgeting",
+    "Audit Management",
+    "Tax Planning",
+    "Strategic Planning",
+    "Knowledge of Accounting Software",
+    "Financial Analysis",
+    "Regulatory Compliance",
+    "Leadership",
+    "Communication",
+    "Strategic Thinking",
+    "Certified Public Accountant (CPA)",
+    "Certified Management Accountant (CMA)",
+    "Certified Internal Auditor (CIA)",
+    "Certified Financial Analyst (CFA)",
+    "Microsoft Office Suite",
+    "QuickBooks",
+    "SAP",
+    "Financial Forecasting",
+    "Cost Accounting",
+    "GAAP Standards"]
+}

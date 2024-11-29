@@ -1,0 +1,1 @@
+{"message":"User already exists.","user_details":{"id":"dae50abd-6984-4e88-ad28-12d61ae1edf8","email":"xatim56758@astegol.com","first_name":"Joseph","last_name":"Chinedu","gender":"M","phone_number":"2341113729138"},"talent_details":null}
