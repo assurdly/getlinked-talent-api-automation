@@ -1,0 +1,1 @@
+{"error":"Error processing cover letter generation. Please try again later."}
