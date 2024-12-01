@@ -1,0 +1,9 @@
+{
+    "address": "No 100 Plenny Lane, Lagos",
+    "desired_role": "Admin Tester",
+    "years_of_experience": "4",
+    "stack" : ["C#", "PYTHON", "JAVA"],
+    "job_type": "happy hour",
+    "currently_employed": "yes",
+    "willing_to_relocate": "maybe"
+}
