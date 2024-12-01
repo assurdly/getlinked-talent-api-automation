@@ -1,0 +1,20 @@
+{
+    "talent_full_name": "A",
+    "talent_street": "B",
+    "talent_city": "C",
+    "talent_state": "D",
+    "talent_country": "E",
+    "talent_email": "F",
+    "talent_phone_number": "G",
+    "recipient_full_name": "H",
+    "recipient_street": "I",
+    "recipient_city": "J",
+    "recipient_state": "K",
+    "recipient_country": "L",
+    "recipient_email": "M",
+    "recipient_phone_number": "N",
+    "cover_letter_date": "O",
+    "cover_letter_subject": "P",
+    "company_name": "Q",
+    "cover_letter_body": "R"
+}
