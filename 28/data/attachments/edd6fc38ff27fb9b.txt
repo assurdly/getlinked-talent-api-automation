@@ -1,0 +1,20 @@
+{
+            "talent_full_name": "Haa1",
+            "talent_email": "Haa2",
+            "talent_street": "Haa3",
+            "talent_city": "Haa4",
+            "talent_state": "Haa5",
+            "talent_country": "Haa6",
+            "talent_phone_number": "Haa7",
+            "recipient_full_name": "Haa8",
+            "recipient_email": "Haa9",
+            "recipient_street": "Haa10",
+            "recipient_city": "Haa11",
+            "recipient_state": "Haa12",
+            "recipient_country": "Haa13",
+            "recipient_phone_number": "Haa14",
+            "company_name": "Haa15",
+            "cover_letter_date": "Haa16",
+            "cover_letter_subject": "Haa17",
+            "cover_letter_body": "Haa18"
+        }
