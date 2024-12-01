@@ -1,1 +1,0 @@
-{"detail":"No JobApplication matches the given query."}
