@@ -1,0 +1,7 @@
+{
+    "name": "Jade Watkings",
+    "sender_email": "taiwotob@gmail.com",
+    "recipient_email": "albatinstoby@gmail.com",
+    "subject": "Its a Getlinked Thing",
+    "message": "Getlinked Over all"
+}
