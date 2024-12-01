@@ -1,0 +1,31 @@
+{
+    "job_role": "QA Engineer",
+    "work_experience": [
+        {
+            "title": "Tester",
+            "company": "Compton Inc",
+            "location": "Cityville",
+            "start_date": "May 2019",
+            "end_date": "Present",
+            "description": [
+                "Postman testing",
+                "Seelnium Testing",
+                "Java Testing",
+                "Selenium Testing"
+            ]
+        },
+        {
+            "title": "QA Engineer",
+            "company": "Good News LLC",
+            "location": "Townsville",
+            "start_date": "Mar. 2017",
+            "end_date": "Apr. 2019",
+            "description": [
+                "C#",
+                "F#",
+                ".NET",
+                "Successful delivery of software services"
+            ]
+        }
+    ]
+}
