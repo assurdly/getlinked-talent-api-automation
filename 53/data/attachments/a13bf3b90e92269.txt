@@ -1,0 +1,7 @@
+{
+    "name": "",
+    "sender_email": "",
+    "recipient_email": "",
+    "subject": "",
+    "message": ""
+}
