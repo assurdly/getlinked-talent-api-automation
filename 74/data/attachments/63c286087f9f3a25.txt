@@ -1,0 +1,7 @@
+{
+    "name": "Henry Lane",
+    "sender_email": "mitty@mailinator.com",
+    "recipient_email": "ezekiel@assurdly.com",
+    "subject": "Reach out to me",
+    "message": "Hello, does this work? Tell me, please."
+}

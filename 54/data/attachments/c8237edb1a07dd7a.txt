@@ -1,1 +1,0 @@
-{"name":["This field may not be blank."],"sender_email":["This field may not be blank."],"recipient_email":["This field may not be blank."],"subject":["This field may not be blank."],"message":["This field may not be blank."]}
