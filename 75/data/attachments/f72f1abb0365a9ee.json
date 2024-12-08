@@ -1,0 +1,10 @@
+{
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "45b9160f-62e4-4fe3-b460-cdae1d4d9552",
+    "Host": "{{local_url}}",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}
