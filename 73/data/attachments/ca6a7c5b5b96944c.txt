@@ -1,0 +1,12 @@
+{
+    "education": [
+        {
+            "school": "Unilag",
+            "location": "Lagos",
+            "degree": "MassCom",
+            "field_of_study": "MassCom",
+            "start_date": "2017",
+            "end_date": "2023"
+        }
+    ]
+}
