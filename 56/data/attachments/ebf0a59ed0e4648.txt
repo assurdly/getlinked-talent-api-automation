@@ -1,1 +1,0 @@
-{"message":"User already exists.","user_details":{"id":"602e3546-e5bc-4ab8-b662-99aee67d250c","email":"mitty@mailinator.com","first_name":"Gritty","last_name":"Mitty","gender":"M","phone_number":"+2348032282761"},"talent_details":{"talent_id":"3eb3196d-14b8-4f9a-b3dc-692a3a7d4903","year_of_work_experience":"2-4 years","desired_role":"QA Engineer"}}
