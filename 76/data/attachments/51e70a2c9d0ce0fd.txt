@@ -1,0 +1,20 @@
+{
+    "education": [
+        {
+            "school": "University of Port Harcourt",
+            "location": "Rivers State, Nigeria",
+            "degree": "BSc. Engineering",
+            "field_of_study": "Information Technology",
+            "start_year": "2020",
+            "end_year": "2021"
+        },
+        {
+            "school": "University of Bradford",
+            "location": "England",
+            "degree": "MSc",
+            "field_of_study": "Satellite Communication",
+            "start_year": "2021",
+            "end_year": "2023"
+        }
+    ]
+}
