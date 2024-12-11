@@ -1,1 +1,0 @@
-{"soft_skills":["Problem-solving","Effective Communication","Attention to Detail","Analytical Thinking","Leadership"],"technical_skills":{"Industry_Specific_Tools":["Selenium","JIRA"],"Software_Proficiency":["TestRail","Postman"],"Methodologies":["Agile","Scrum"]}}
