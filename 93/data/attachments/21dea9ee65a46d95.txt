@@ -1,0 +1,6 @@
+{
+  "id":"a2bed3db-78de-45e3-86f5-02624d64a1c2",
+  "currently_employed": true,
+  "willing_to_relocate": true,
+  "proficiency_level": "INTERMEDIATE"
+}
