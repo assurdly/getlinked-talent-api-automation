@@ -1,2 +1,0 @@
-level: warn, messages: Form param `cv`, file load error: "/Users/mac/Documents/CVs/aio-resume (1).pdf", no such file
-level: warn, messages: Form param `cover_letter_file`, file load error: "/Users/mac/Downloads/Application Letter.pdf", no such file
