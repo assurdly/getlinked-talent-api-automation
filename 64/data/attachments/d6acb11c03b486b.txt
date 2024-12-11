@@ -1,1 +1,0 @@
-{"message":"Error creating Paystack payment link","error":"'Talent' object has no attribute 'user_type'"}
