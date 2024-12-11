@@ -1,3 +1,0 @@
-{
-    "objective": "I am a Software Quality Engineer with over 8 years of experience in testing Web, API and Mobile apps. My core skills are in understanding business requirements into functional specifications, creating test strategies, and working with teams to adopt a quality mindset during development. My strengths are in test planning and execution, defect triaging and root cause analysis while delivering business KPIs. I am a self-organized, tech enthusiast with a passion for continuous self-development."
-}
