@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"a2bed3db-78de-45e3-86f5-02624d64a1c2","first_name":"Shaun","middle_name":null,"last_name":"Okojie","email":"shaun@mailinator.com","email_verified":true,"phone_number":"2347086675570","date_of_birth":null,"gender":"male","user_type":"TALENT","address":null},"errors":null}
