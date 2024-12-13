@@ -1,0 +1,1 @@
+{"message":"User already exists.","user_details":{"id":"a0b349a0-d9bb-42ac-9b26-ed2c7a6c31ab","email":"saga@mailinator.com","first_name":"Saga","last_name":"Adeolu","gender":"F","phone_number":"+2349030462738"},"talent_details":{"talent_id":"584657eb-85b2-45fa-9c28-11b0dd83c0b9","year_of_work_experience":"2-4 years","desired_role":"Software Tester"}}

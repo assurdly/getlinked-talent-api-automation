@@ -1,0 +1,10 @@
+{
+    "first_name": "Kenyon",
+    "last_name": "Rohan",
+    "email": "Emanuel.Bernhard26@hotmail.com",
+    "phone_number": "+23408039121777",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
