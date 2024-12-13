@@ -1,0 +1,13 @@
+{
+    "talent_full_name": "Tobi Joseph",
+    "talent_street": "123, dc way",
+    "talent_city": "Lekki",
+    "talent_state": "Lagos",
+    "talent_country": "Nigeria",
+    "talent_email": "joe@gmail.com",
+    "talent_phone_number": "+2347013724573",
+    "recipient_full_name": "Google LLC",
+    "recipient_street": "Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043",
+    "recipient_city": "Mountain View",
+    "recipient_state": "Santa Clara County, California"
+}
