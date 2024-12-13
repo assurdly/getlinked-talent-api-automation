@@ -1,0 +1,124 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","565","job application for non talent - success","GetLinked - Talent","Fri Dec 13 08:48:42 GMT 2024","passed","Fri Dec 13 08:48:42 GMT 2024","Talent_Job_Application","Talent","",""
+"","37","update_project_blocked","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent CV","Talent","",""
+"","32","related_jobs_blocked","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Talent_Job_Application","Talent","",""
+"","47","personality test","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","passed","Fri Dec 13 08:48:38 GMT 2024","TEST > personality test","Talent","",""
+"","31","download_cv_and_cover_letter_failed","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Talent_Job_Application","Talent","",""
+"","54","Delete a bookmarked job_successful","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent Job","Talent","",""
+"","68","Onboarding talent - successful","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Onboarding","Talent","",""
+"","35","update_cv - empty","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","49","No auth - personality test","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","failed","Fri Dec 13 08:48:38 GMT 2024","TEST > personality test","Talent","",""
+"","29","get_applied_job","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Talent_Job_Application","Talent","",""
+"","32","get_best_job_for_talent_blocked","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent Job","Talent","",""
+"","54","paraphrased_cv_letter_successful","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Cover_Letter_Creation","Talent","",""
+"","34","Talent login - empty fields","GetLinked - Talent","Fri Dec 13 08:48:37 GMT 2024","failed","Fri Dec 13 08:48:37 GMT 2024","Login-Talent","Authentication","",""
+"","44","cv review data test_don't_understand_this","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","","CV Review as a service","",""
+"","30","check_username_successful","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Portfolio_website","Talent","",""
+"","51","cover_letter_creation_successful","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Cover_Letter_Creation","Talent","",""
+"","43","fetch_cv_and_resume_not working","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Talent_Job_Application","Talent","",""
+"","35","create_portfolio_website","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Portfolio_website","Talent","",""
+"","55","Job_application","GetLinked - Talent","Fri Dec 13 08:48:42 GMT 2024","passed","Fri Dec 13 08:48:42 GMT 2024","Talent_Job_Application","Talent","",""
+"","30","contact_me_successful","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Portfolio_website","Talent","",""
+"","51","Get job applications_failed","GetLinked - Talent","Fri Dec 13 08:48:42 GMT 2024","passed","Fri Dec 13 08:48:42 GMT 2024","Talent_Job_Application","Talent","",""
+"","63","Get All CVs - successful","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","87","Get Vetted CV successfully","GetLinked - Talent","Fri Dec 13 08:48:37 GMT 2024","failed","Fri Dec 13 08:48:37 GMT 2024","Vetted CV","Talent","",""
+"","40","auto_gen_cv_letter_failed","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Cover_Letter_Creation","Talent","",""
+"","36","Upload CV - no role","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","38","verify_bot_talent","GetLinked - Talent","Fri Dec 13 08:48:39 GMT 2024","passed","Fri Dec 13 08:48:39 GMT 2024","Bot_Talent","Talent","",""
+"","35","education_update_cv_data_blocked","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","380","Get the job list_successful","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:42 GMT 2024","Talent Job","Talent","",""
+"","29","paraphrase_description_what_is_this_endpoint?","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Portfolio_website","Talent","",""
+"","46","Get Vetting CV successfully","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","failed","Fri Dec 13 08:48:38 GMT 2024","Vetting CV","Talent","",""
+"","34","update_portfolio_website","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Portfolio_website","Talent","",""
+"","45","Get Vetting CV - no authentication","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","failed","Fri Dec 13 08:48:38 GMT 2024","Vetting CV","Talent","",""
+"","56","Get Vetted CV - no authentication","GetLinked - Talent","Fri Dec 13 08:48:37 GMT 2024","failed","Fri Dec 13 08:48:38 GMT 2024","Vetted CV","Talent","",""
+"","40","answer skill test question","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","passed","Fri Dec 13 08:48:38 GMT 2024","TEST > answer skill test question","Talent","",""
+"","37","update_work_experience_blocked","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent CV","Talent","",""
+"","69","Get user details - successful","GetLinked - Talent","Fri Dec 13 08:48:37 GMT 2024","passed","Fri Dec 13 08:48:37 GMT 2024","get_user_details","Authentication","",""
+"","67","Upload CV successful","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","38","bot_talent_reg","GetLinked - Talent","Fri Dec 13 08:48:39 GMT 2024","passed","Fri Dec 13 08:48:39 GMT 2024","Bot_Talent","Talent","",""
+"","86","resume_update_pass","GetLinked - Talent","Fri Dec 13 08:48:39 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Resume Creation","Talent","",""
+"","36","Invalid email - resend_talent_email_verification_code","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","failed","Fri Dec 13 08:48:43 GMT 2024","","Resend_talent_email_verification_code","",""
+"","70","Update talent profile_failed","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent Profile","Talent","",""
+"","46","user cv review_bocked","GetLinked - Talent","Fri Dec 13 08:48:44 GMT 2024","passed","Fri Dec 13 08:48:44 GMT 2024","","CV Review as a service","",""
+"","39","Onboarding talent (always 409) - Duplicate","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Onboarding","Talent","",""
+"","35","fetch_cover_letter_failed","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Talent_Job_Application","Talent","",""
+"","245","No auth - answer personality test","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","failed","Fri Dec 13 08:48:39 GMT 2024","TEST > answer personality test","Talent","",""
+"","38","No email - resend_talent_email_verification_code","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","failed","Fri Dec 13 08:48:43 GMT 2024","","Resend_talent_email_verification_code","",""
+"","42","delete_cover_letter_failed","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Cover_Letter_Creation","Talent","",""
+"","33","non_talent_job_list_working but not understood","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Talent_Job_Application","Talent","",""
+"","44","No auth - skill test","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","failed","Fri Dec 13 08:48:38 GMT 2024","TEST > skill test","Talent","",""
+"","77","Get bookmarks_successful","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent Job","Talent","",""
+"","43","update education in revamped cv_blocked","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:44 GMT 2024","","CV Review as a service","",""
+"","76","get_cover_letter_successful","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Cover_Letter_Creation","Talent","",""
+"","37","Upload CV - no file","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","68","create a bookmark_successful","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent Job","Talent","",""
+"","33","get_single_portfoliowebsite_blocked","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Portfolio_website","Talent","",""
+"","37","match_cv_to_jd_blocked","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent Job","Talent","",""
+"","34","paraphrased_resume_objective_successful","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Resume Creation","Talent","",""
+"","32","Get All CVs - Invalid access code","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","29","get_project_blocked","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Portfolio_website","Talent","",""
+"","72","Get Skill test successfully","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","passed","Fri Dec 13 08:48:38 GMT 2024","TEST > skill test","Talent","",""
+"","49","download cover letter_blocked","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","","CV Review as a service","",""
+"","29","get_single_portfolio_website_failed","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Portfolio_website","Talent","",""
+"","1650","Talent login - successful","GetLinked - Talent","Fri Dec 13 08:48:33 GMT 2024","passed","Fri Dec 13 08:48:34 GMT 2024","Login-Talent","Authentication","",""
+"","661","resuming_creation","GetLinked - Talent","Fri Dec 13 08:48:39 GMT 2024","passed","Fri Dec 13 08:48:39 GMT 2024","Talent CV > Resume Creation","Talent","",""
+"","131","get_resume","GetLinked - Talent","Fri Dec 13 08:48:39 GMT 2024","passed","Fri Dec 13 08:48:39 GMT 2024","Talent CV > Resume Creation","Talent","",""
+"","37","resume_objective_paraphrase","GetLinked - Talent","Fri Dec 13 08:48:39 GMT 2024","passed","Fri Dec 13 08:48:39 GMT 2024","Talent CV > Resume Creation","Talent","",""
+"","64","Get Talent by ID_failed","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent Profile","Talent","",""
+"","1160","Talent login - incorrect password","GetLinked - Talent","Fri Dec 13 08:48:36 GMT 2024","failed","Fri Dec 13 08:48:37 GMT 2024","Login-Talent","Authentication","",""
+"","9","New Request","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","broken","Fri Dec 13 08:48:41 GMT 2024","Talent Profile","Talent","",""
+"","46","No auth - answer skill test question","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","failed","Fri Dec 13 08:48:38 GMT 2024","TEST > answer skill test question","Talent","",""
+"fields:
+
+- contact_infornation_recommendation
+    
+- summary_recommendation
+    
+- experience_recommendation
+    
+- education_recommendation
+    
+- skills_recommendation
+    
+- certification_recommendation
+    
+- projects_recommendation
+    
+- awards_recommendation
+    
+- professional_memberships_recommendation
+    
+- languages_recommendation
+    
+- role_and_responsibilities_recommendation
+    
+- achievement_and_accoplishments_recommendation","44","update recommendation data_blocked","GetLinked - Talent","Fri Dec 13 08:48:44 GMT 2024","passed","Fri Dec 13 08:48:44 GMT 2024","","CV Review as a service","",""
+"","36","auto_generate_skills_successful","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Resume Creation","Talent","",""
+"","30","get_portfolio_website_blocked","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Portfolio_website","Talent","",""
+"","30","email_check_successful","GetLinked - Talent","Fri Dec 13 08:48:42 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Talent_Job_Application","Talent","",""
+"","49","fetch paid cv rewriter data_blocked","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","","CV Review as a service","",""
+"","26","cv review","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","","CV Review as a service","",""
+"","328","answer personality test","GetLinked - Talent","Fri Dec 13 08:48:38 GMT 2024","passed","Fri Dec 13 08:48:38 GMT 2024","TEST > answer personality test","Talent","",""
+"","48","resend_talent_email_verification_code","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","","Resend_talent_email_verification_code","",""
+"","35","update_contact_details_blocked","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","1600","Talent login - Talent 2","GetLinked - Talent","Fri Dec 13 08:48:34 GMT 2024","passed","Fri Dec 13 08:48:36 GMT 2024","Login-Talent","Authentication","",""
+"","45","update cv objective_blocked","GetLinked - Talent","Fri Dec 13 08:48:44 GMT 2024","passed","Fri Dec 13 08:48:44 GMT 2024","","CV Review as a service","",""
+"","35","Get user details - invalid access token","GetLinked - Talent","Fri Dec 13 08:48:37 GMT 2024","passed","Fri Dec 13 08:48:37 GMT 2024","get_user_details","Authentication","",""
+"","31","get_Job_details_successful","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Talent_Job_Application","Talent","",""
+"","56","get cv data","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","45","update_certification_blocked","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent CV","Talent","",""
+"","41","update password_why_do_we_need_this","GetLinked - Talent","Fri Dec 13 08:48:44 GMT 2024","passed","Fri Dec 13 08:48:44 GMT 2024","","CV Review as a service","",""
+"","34","delete_resume_successful","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Resume Creation","Talent","",""
+"","34","match_jd_to_cv_blocked","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent Job","Talent","",""
+"","36","update_cover_letter_successful","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV > Cover_Letter_Creation","Talent","",""
+"","29","non_job_detail_working","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","Talent_Job_Application","Talent","",""
+"","34","update_skill_blocked","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent CV","Talent","",""
+"","58","Upload CV - no proficiency","GetLinked - Talent","Fri Dec 13 08:48:40 GMT 2024","passed","Fri Dec 13 08:48:40 GMT 2024","Talent CV","Talent","",""
+"","45","bot_talent_onboarding","GetLinked - Talent","Fri Dec 13 08:48:39 GMT 2024","passed","Fri Dec 13 08:48:39 GMT 2024","Bot_Talent","Talent","",""
+"","40","update_languages_blocked","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent CV","Talent","",""
+"","46","delete education details from revamped cv data_blocked","GetLinked - Talent","Fri Dec 13 08:48:44 GMT 2024","passed","Fri Dec 13 08:48:44 GMT 2024","","CV Review as a service","",""
+"","43","partial update on cv review data_blocked","GetLinked - Talent","Fri Dec 13 08:48:43 GMT 2024","passed","Fri Dec 13 08:48:43 GMT 2024","","CV Review as a service","",""
+"","114","talent_profile","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent Profile","Talent","",""
+"","35","update_awards_honor_blocked","GetLinked - Talent","Fri Dec 13 08:48:41 GMT 2024","passed","Fri Dec 13 08:48:41 GMT 2024","Talent CV","Talent","",""
+"","42","Talent login - email does not exist","GetLinked - Talent","Fri Dec 13 08:48:36 GMT 2024","failed","Fri Dec 13 08:48:36 GMT 2024","Login-Talent","Authentication","",""

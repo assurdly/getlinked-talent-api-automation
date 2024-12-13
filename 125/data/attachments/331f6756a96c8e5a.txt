@@ -1,0 +1,21 @@
+{
+    "talent_full_name": "Tobi Joseph",
+    "talent_street": "123, dc way",
+    "talent_city": "Lekki",
+    "talent_state": "Abujaaaaaaa",
+    "talent_country": "Nigeria",
+    "talent_email": "joe@gmail.com",
+    "talent_phone_number": "+2347033724573",
+    "recipient_full_name": "Google LLC",
+    "recipient_street": "Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043",
+    "recipient_city": "Mountain View",
+    "recipient_state": "Santa Clara County, California",
+    "recipient_country": "United States",
+    "recipient_email": "google@gmail.com",
+    "recipient_phone_number": "09036746334",
+    "cover_letter_date": "25th, December 2023",
+    "cover_letter_subject": "Frontend Developer",
+    "company_name": "Liberty Assured",
+    "cover_letter_body": "I am writing to express my interest in the Frontend Developer role at Liberty Assured.",
+    "cover_letter_title": "Application for Frontend Developer"
+}
