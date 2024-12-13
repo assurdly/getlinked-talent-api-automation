@@ -1,0 +1,10 @@
+{
+    "first_name": "Icie",
+    "last_name": "Bechtelar",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408077045473",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
