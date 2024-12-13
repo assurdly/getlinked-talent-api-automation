@@ -1,0 +1,10 @@
+{
+    "first_name": "Jamar",
+    "last_name": "Hane",
+    "email": "Otis_Botsford10@hotmail.com",
+    "phone_number": "+23408041015575",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
