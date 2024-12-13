@@ -1,0 +1,10 @@
+{
+    "first_name": "Alfredo",
+    "last_name": "Jacobson",
+    "email": "Kimberly.OReilly37@gmail.com",
+    "phone_number": "+23408094953416",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
