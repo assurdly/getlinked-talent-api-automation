@@ -1,0 +1,1 @@
+{"first_name":["This field may not be blank."],"last_name":["This field may not be blank."],"email":["This field may not be blank."],"phone_number":["Invalid phone number format."],"date_of_birth":["Date has wrong format. Use one of these formats instead: YYYY-MM-DD."],"password":["This field may not be blank."],"confirm_password":["This field may not be blank."]}
