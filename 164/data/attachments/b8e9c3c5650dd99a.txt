@@ -1,0 +1,10 @@
+{
+    "first_name": "Arianna",
+    "last_name": "McClure",
+    "email": "Julie.Gusikowski@gmail.com",
+    "phone_number": "+23408020564262",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
