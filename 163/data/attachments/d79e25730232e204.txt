@@ -1,0 +1,10 @@
+{
+    "first_name": "Megane",
+    "last_name": "Cole",
+    "email": "Vinnie.Willms@hotmail.com",
+    "phone_number": "+23408069472201",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
