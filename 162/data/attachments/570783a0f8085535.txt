@@ -1,0 +1,10 @@
+{
+    "first_name": "Robin",
+    "last_name": "O'Kon",
+    "email": "Jessy@mailinator.com",
+    "phone_number": "+23408053541820",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
