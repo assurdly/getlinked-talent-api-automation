@@ -1,0 +1,10 @@
+{
+    "first_name": "Johanna",
+    "last_name": "Boyle",
+    "email": "Clare_Wilkinson@hotmail.com",
+    "phone_number": "+23408077756961",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
