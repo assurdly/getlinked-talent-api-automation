@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Wallace","middle_name":null,"last_name":"Kuhn","email":"Cassie@mailinator.com","phone_number":"+2348095220211","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}

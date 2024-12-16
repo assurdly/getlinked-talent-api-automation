@@ -1,0 +1,10 @@
+{
+    "first_name": "Vernon",
+    "last_name": "Abshire",
+    "email": "Brady_Davis@hotmail.com",
+    "phone_number": "+23408067438972",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
