@@ -1,0 +1,10 @@
+{
+    "first_name": "Ericka",
+    "last_name": "Fisher",
+    "email": "Donna57@hotmail.com",
+    "phone_number": "+23408077275267",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

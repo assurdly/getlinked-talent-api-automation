@@ -1,0 +1,10 @@
+{
+    "first_name": "Alfonzo",
+    "last_name": "Doyle",
+    "email": "Jazlyn4@hotmail.com",
+    "phone_number": "+23408018636109",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
