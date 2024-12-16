@@ -1,0 +1,10 @@
+{
+    "first_name": "Marta",
+    "last_name": "Altenwerth",
+    "email": "Heather76@gmail.com",
+    "phone_number": "+23408039770605",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
