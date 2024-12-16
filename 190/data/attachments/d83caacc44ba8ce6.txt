@@ -1,0 +1,10 @@
+{
+    "first_name": "Haskell",
+    "last_name": "Dooley",
+    "email": "Valentine3@hotmail.com",
+    "phone_number": "+23408055754350",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
