@@ -1,0 +1,10 @@
+{
+    "first_name": "Sylvan",
+    "last_name": "Nader",
+    "email": "Aylin_Dach35@hotmail.com",
+    "phone_number": "+23408041173458",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
