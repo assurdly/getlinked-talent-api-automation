@@ -1,0 +1,10 @@
+{
+    "first_name": "Donny",
+    "last_name": "Carroll",
+    "email": "Leann_Medhurst26@yahoo.com",
+    "phone_number": "+23408067961647",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
