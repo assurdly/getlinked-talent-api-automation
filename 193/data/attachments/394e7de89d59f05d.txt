@@ -1,0 +1,10 @@
+{
+    "first_name": "Gwendolyn",
+    "last_name": "Padberg",
+    "email": "Jettie@mailinator.com",
+    "phone_number": "+23408032009700",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
