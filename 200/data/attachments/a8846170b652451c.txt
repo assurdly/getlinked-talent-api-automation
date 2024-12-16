@@ -1,0 +1,10 @@
+{
+    "first_name": "Camylle",
+    "last_name": "Roob",
+    "email": "Colt_Kuvalis28@gmail.com",
+    "phone_number": "+23408066730674",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
