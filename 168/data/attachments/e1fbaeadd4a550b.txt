@@ -1,0 +1,10 @@
+{
+    "first_name": "Stephan",
+    "last_name": "Gaylord",
+    "email": "Abdul35@gmail.com",
+    "phone_number": "+23408073056212",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
