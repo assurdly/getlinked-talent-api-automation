@@ -1,0 +1,10 @@
+{
+    "first_name": "Alyson",
+    "last_name": "Hagenes",
+    "email": "Enid@mailinator.com",
+    "phone_number": "+23408022893600",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
