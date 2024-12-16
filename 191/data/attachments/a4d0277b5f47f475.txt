@@ -1,0 +1,10 @@
+{
+    "first_name": "Carissa",
+    "last_name": "Haag",
+    "email": "Leola21@yahoo.com",
+    "phone_number": "+23408042539368",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

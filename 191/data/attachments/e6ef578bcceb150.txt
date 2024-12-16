@@ -1,0 +1,10 @@
+{
+    "first_name": "Myles",
+    "last_name": "Marquardt",
+    "email": "Stephon.Harris79@gmail.com",
+    "phone_number": "+23408096958181",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
