@@ -1,0 +1,10 @@
+{
+    "first_name": "Stacy",
+    "last_name": "Strosin",
+    "email": "Lucious@mailinator.com",
+    "phone_number": "+23408057971070",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
