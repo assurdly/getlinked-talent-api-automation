@@ -1,0 +1,10 @@
+{
+    "first_name": "Adriana",
+    "last_name": "Bauch",
+    "email": "Amelie_Paucek24@yahoo.com",
+    "phone_number": "+23408010836474",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
