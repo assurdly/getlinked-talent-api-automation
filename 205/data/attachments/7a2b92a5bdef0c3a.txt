@@ -1,0 +1,10 @@
+{
+    "first_name": "Flo",
+    "last_name": "Green",
+    "email": "Kyler@mailinator.com",
+    "phone_number": "+23408055906661",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

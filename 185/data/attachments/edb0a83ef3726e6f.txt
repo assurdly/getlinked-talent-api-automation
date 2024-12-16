@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Cynthia","middle_name":null,"last_name":"Torp","email":"Wilhelm@mailinator.com","phone_number":"+2348054163521","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
