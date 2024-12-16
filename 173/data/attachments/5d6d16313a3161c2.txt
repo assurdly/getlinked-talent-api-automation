@@ -1,0 +1,6 @@
+{
+    "otp": "",
+    "email": "",
+    "new_password": "",
+    "confirm_password": ""
+}
