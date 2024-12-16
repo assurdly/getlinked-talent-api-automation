@@ -1,0 +1,1 @@
+{"success":true,"status_code":201,"message":"Resume builder request created successfully","data":{"paystack_payment_link":"https://checkout.paystack.com/kpz9goqqi9ijs6v"}}

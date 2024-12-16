@@ -1,0 +1,10 @@
+{
+    "first_name": "Jerel",
+    "last_name": "Nolan",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+2340808881883",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
