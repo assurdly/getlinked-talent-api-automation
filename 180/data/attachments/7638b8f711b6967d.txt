@@ -1,0 +1,10 @@
+{
+    "first_name": "Lucius",
+    "last_name": "Nikolaus",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408030614687",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

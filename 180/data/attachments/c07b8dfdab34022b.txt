@@ -1,0 +1,10 @@
+{
+    "first_name": "Ivy",
+    "last_name": "Deckow",
+    "email": "Stacy@mailinator.com",
+    "phone_number": "+23408021175331",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
