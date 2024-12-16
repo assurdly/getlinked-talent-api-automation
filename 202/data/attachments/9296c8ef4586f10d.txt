@@ -1,0 +1,10 @@
+{
+    "first_name": "Lily",
+    "last_name": "Swift",
+    "email": "Bobby_Howe@hotmail.com",
+    "phone_number": "+23408083576635",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
