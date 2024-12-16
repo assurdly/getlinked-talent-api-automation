@@ -1,0 +1,10 @@
+{
+    "first_name": "Zackary",
+    "last_name": "Langworth",
+    "email": "Benjamin72@gmail.com",
+    "phone_number": "+23408056494675",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
