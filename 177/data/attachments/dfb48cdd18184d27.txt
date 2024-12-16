@@ -1,0 +1,6 @@
+{
+    "otp": "808080",
+    "email": "{{recruiterEmail}}",
+    "new_password": "@Password1",
+    "confirm_password": "@Password1"
+}

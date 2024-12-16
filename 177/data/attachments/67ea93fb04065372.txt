@@ -1,0 +1,10 @@
+{
+    "first_name": "Grayson",
+    "last_name": "Mraz",
+    "email": "Jesus.Klein@yahoo.com",
+    "phone_number": "+23408029311177",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

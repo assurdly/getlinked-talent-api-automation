@@ -1,0 +1,10 @@
+{
+    "first_name": "Jaida",
+    "last_name": "Schroeder",
+    "email": "Jamison.Prosacco3@yahoo.com",
+    "phone_number": "+23408068818376",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
