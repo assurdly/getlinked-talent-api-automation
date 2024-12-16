@@ -1,4 +1,0 @@
-{
-    "recipient": "{{recruiterEmail}}",
-    "otp": "808080"
-}
