@@ -1,0 +1,10 @@
+{
+    "first_name": "Malachi",
+    "last_name": "King",
+    "email": "Hortense.Stokes@yahoo.com",
+    "phone_number": "+23408040241580",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

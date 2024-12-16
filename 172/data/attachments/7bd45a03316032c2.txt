@@ -1,0 +1,10 @@
+{
+    "first_name": "Molly",
+    "last_name": "Frami",
+    "email": "Sharon@mailinator.com",
+    "phone_number": "+23408089779538",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

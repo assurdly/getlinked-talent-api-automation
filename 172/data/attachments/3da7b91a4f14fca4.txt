@@ -1,0 +1,10 @@
+{
+    "first_name": "Glen",
+    "last_name": "Maggio",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408091114170",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
