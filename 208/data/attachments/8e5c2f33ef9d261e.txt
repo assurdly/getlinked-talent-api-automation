@@ -1,0 +1,10 @@
+{
+    "first_name": "Stevie",
+    "last_name": "Langworth",
+    "email": "Roslyn_Walker@yahoo.com",
+    "phone_number": "+23408036486249",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
