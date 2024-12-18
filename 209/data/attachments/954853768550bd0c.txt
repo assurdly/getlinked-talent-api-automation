@@ -1,0 +1,10 @@
+{
+    "first_name": "Raegan",
+    "last_name": "Mills",
+    "email": "Pearlie.Boyle@yahoo.com",
+    "phone_number": "+23408017320518",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

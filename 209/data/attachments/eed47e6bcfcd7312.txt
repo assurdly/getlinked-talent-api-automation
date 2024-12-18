@@ -1,0 +1,10 @@
+{
+    "first_name": "Lempi",
+    "last_name": "Bashirian",
+    "email": "Nakia@mailinator.com",
+    "phone_number": "+23408079376344",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
