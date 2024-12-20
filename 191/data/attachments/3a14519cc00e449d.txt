@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Valentin","middle_name":null,"last_name":"Daniel","email":"Karina@mailinator.com","phone_number":"+2348079174550","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}

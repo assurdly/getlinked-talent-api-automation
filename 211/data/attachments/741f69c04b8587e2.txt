@@ -1,0 +1,10 @@
+{
+    "first_name": "Eldora",
+    "last_name": "Auer",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408015120498",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
