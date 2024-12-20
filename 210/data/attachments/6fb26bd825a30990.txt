@@ -1,0 +1,10 @@
+{
+    "first_name": "Shad",
+    "last_name": "Schultz",
+    "email": "Paige@mailinator.com",
+    "phone_number": "+2340803348955",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
