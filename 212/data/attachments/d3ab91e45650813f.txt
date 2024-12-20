@@ -1,0 +1,10 @@
+{
+    "first_name": "Esteban",
+    "last_name": "Murphy",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408098674745",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
