@@ -1,0 +1,10 @@
+{
+    "first_name": "Grady}12$",
+    "last_name": "{{$randomlastName}}12$",
+    "email": "June_Schulist@gmail.com",
+    "phone_number": "+23408057002544",
+    "date_of_birth": "1995-12-2",
+    "gender": "M",
+    "password": "Alliswell2012$",
+    "confirm_password": "Alliswell2012$"
+}

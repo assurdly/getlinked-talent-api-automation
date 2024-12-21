@@ -1,0 +1,10 @@
+{
+    "first_name": "Leonard",
+    "last_name": "Legros",
+    "email": "Tyrel_Jacobson@hotmail.com",
+    "phone_number": "+23408024082788",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
