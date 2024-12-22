@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Mariah","middle_name":null,"last_name":"Considine","email":"Lindsay@mailinator.com","phone_number":"+2348076095561","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
