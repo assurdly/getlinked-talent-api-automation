@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Adelbert","middle_name":null,"last_name":"Hettinger","email":"Earnest@mailinator.com","phone_number":"+2348085830685","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}

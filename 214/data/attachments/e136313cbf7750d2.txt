@@ -1,0 +1,10 @@
+{
+    "first_name": "Nasir",
+    "last_name": "Schmidt",
+    "email": "Eileen_Doyle41@gmail.com",
+    "phone_number": "+23408031323164",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
