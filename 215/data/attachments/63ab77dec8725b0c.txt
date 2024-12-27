@@ -1,0 +1,10 @@
+{
+    "first_name": "Kaylee",
+    "last_name": "Vandervort",
+    "email": "Carissa57@yahoo.com",
+    "phone_number": "+23408023598479",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
