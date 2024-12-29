@@ -1,0 +1,10 @@
+{
+    "first_name": "William",
+    "last_name": "Connelly",
+    "email": "Ned_Konopelski@gmail.com",
+    "phone_number": "+23408057170744",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
