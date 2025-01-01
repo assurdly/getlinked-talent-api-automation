@@ -1,0 +1,10 @@
+{
+    "first_name": "Cale",
+    "last_name": "Lebsack",
+    "email": "Claire.Gleichner41@hotmail.com",
+    "phone_number": "+23408032790958",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

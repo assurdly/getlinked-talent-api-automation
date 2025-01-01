@@ -1,0 +1,10 @@
+{
+    "first_name": "Marley",
+    "last_name": "Kilback",
+    "email": "Anne99@gmail.com",
+    "phone_number": "+23408069941971",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
