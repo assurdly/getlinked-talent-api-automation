@@ -1,0 +1,10 @@
+{
+    "first_name": "Princess",
+    "last_name": "Fay",
+    "email": "Gus34@yahoo.com",
+    "phone_number": "+23408091389129",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
