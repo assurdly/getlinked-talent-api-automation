@@ -1,0 +1,10 @@
+{
+    "first_name": "Patience",
+    "last_name": "Lynch",
+    "email": "Akeem33@gmail.com",
+    "phone_number": "+23408067437145",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
