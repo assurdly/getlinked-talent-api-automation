@@ -1,0 +1,10 @@
+{
+    "first_name": "Salvatore",
+    "last_name": "Hegmann",
+    "email": "Sandra_Konopelski58@hotmail.com",
+    "phone_number": "+23408084994427",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
