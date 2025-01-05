@@ -1,0 +1,10 @@
+{
+    "first_name": "Javon",
+    "last_name": "Turner",
+    "email": "Aylin_Dickens@hotmail.com",
+    "phone_number": "+23408090777609",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

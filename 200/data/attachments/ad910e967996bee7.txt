@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Sarina","middle_name":null,"last_name":"Strosin","email":"Luna@mailinator.com","phone_number":"+2348054592875","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
