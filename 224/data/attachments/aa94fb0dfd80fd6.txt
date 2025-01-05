@@ -1,0 +1,10 @@
+{
+    "first_name": "Crystel",
+    "last_name": "Rowe",
+    "email": "Anjali94@yahoo.com",
+    "phone_number": "+23408024205040",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
