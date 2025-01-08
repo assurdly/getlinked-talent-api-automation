@@ -1,0 +1,10 @@
+{
+    "first_name": "Burley",
+    "last_name": "Trantow",
+    "email": "Glenda@mailinator.com",
+    "phone_number": "+2340802206327",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
