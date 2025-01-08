@@ -1,0 +1,10 @@
+{
+    "first_name": "Larue",
+    "last_name": "Grimes",
+    "email": "Danial_Dicki@yahoo.com",
+    "phone_number": "+23408080507928",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
