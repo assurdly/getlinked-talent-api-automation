@@ -1,0 +1,10 @@
+{
+    "first_name": "Pamela",
+    "last_name": "Veum",
+    "email": "Fabian@mailinator.com",
+    "phone_number": "+23408026325892",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
