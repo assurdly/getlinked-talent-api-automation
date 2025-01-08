@@ -1,0 +1,10 @@
+{
+    "first_name": "Mayra",
+    "last_name": "Paucek",
+    "email": "Christy@mailinator.com",
+    "phone_number": "+23408012307253",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
