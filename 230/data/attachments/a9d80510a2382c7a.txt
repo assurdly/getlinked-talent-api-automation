@@ -1,0 +1,10 @@
+{
+    "first_name": "Lawrence",
+    "last_name": "Lakin",
+    "email": "Lamont@mailinator.com",
+    "phone_number": "+23408044128824",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
