@@ -1,0 +1,10 @@
+{
+    "first_name": "Citlalli",
+    "last_name": "Flatley",
+    "email": "Mireya@mailinator.com",
+    "phone_number": "+23408034244189",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
