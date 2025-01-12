@@ -1,0 +1,10 @@
+{
+    "first_name": "Oda",
+    "last_name": "Murphy",
+    "email": "Jordan66@yahoo.com",
+    "phone_number": "+23408070450805",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
