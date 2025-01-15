@@ -1,0 +1,10 @@
+{
+    "first_name": "Shany",
+    "last_name": "Heller",
+    "email": "Jannie_Conn@hotmail.com",
+    "phone_number": "+23408070271215",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

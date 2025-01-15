@@ -1,0 +1,10 @@
+{
+    "first_name": "Shanny",
+    "last_name": "Ledner",
+    "email": "Sylvia.Botsford@gmail.com",
+    "phone_number": "+23408065033635",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

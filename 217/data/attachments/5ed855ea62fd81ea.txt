@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"602e3546-e5bc-4ab8-b662-99aee67d250c","first_name":"Gritty","middle_name":null,"last_name":"Mitty","email":"mitty@mailinator.com","email_verified":true,"phone_number":"+2348032282761","date_of_birth":null,"gender":"M","user_type":"TALENT","address":null},"errors":null}
