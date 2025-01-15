@@ -1,0 +1,7 @@
+{
+    "name": "Shade Dorcas",
+    "sender_email": "saga@mailinator.com",
+    "recipient_email": "Hadley@mailinator.com",
+    "subject": "It is confirmed",
+    "message": "Hello, does this work? Tell me, please."
+}

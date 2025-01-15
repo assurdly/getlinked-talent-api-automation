@@ -1,0 +1,10 @@
+{
+    "first_name": "Franz",
+    "last_name": "Farrell",
+    "email": "Marisol.Schmeler@yahoo.com",
+    "phone_number": "+23408047539123",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
