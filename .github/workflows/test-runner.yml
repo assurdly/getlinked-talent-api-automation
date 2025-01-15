@@ -121,7 +121,7 @@ jobs:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
           SLACK_CHANNEL: 'C070KUKPDLZ'
           SLACK_MESSAGE: |
-            *Getlinked - API Quality Readiness*
+            *Getlinked-Talent - API Quality Readiness*
             *Contributors - Abisola*
             Status: ${{ job.status }}
             Passing Tests: ${{ steps.parse_json.outputs.passing_percentage }}%
