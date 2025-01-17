@@ -1,0 +1,10 @@
+{
+    "first_name": "Tommie",
+    "last_name": "Fritsch",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408079372326",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
