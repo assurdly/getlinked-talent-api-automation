@@ -1,0 +1,10 @@
+{
+    "first_name": "Rachelle",
+    "last_name": "Russel",
+    "email": "Cristobal.Gutkowski@yahoo.com",
+    "phone_number": "+23408020834356",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

@@ -1,0 +1,10 @@
+{
+    "first_name": "Violet",
+    "last_name": "Mertz",
+    "email": "Geraldine.Gutkowski@gmail.com",
+    "phone_number": "+23408026036007",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

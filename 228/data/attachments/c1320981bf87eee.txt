@@ -1,1 +1,0 @@
-{"success":true,"status_code":200,"message":"No cv that matched the job!, try another job!","data":{}}
