@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Jeromy","middle_name":null,"last_name":"Huels","email":"Orpha@mailinator.com","phone_number":"+2348066394162","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
