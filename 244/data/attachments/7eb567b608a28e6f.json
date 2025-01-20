@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM3NDYzMTM5LCJpYXQiOjE3MzczNzY3MzksImp0aSI6ImY3ZGExZmMwZDQxNTQ4NGU4YmYxMzAzM2JmZjIwODNiIiwidXNlcl9pZCI6IjYwMmUzNTQ2LWU1YmMtNGFiOC1iNjYyLTk5YWVlNjdkMjUwYyJ9.t4tC-UTw-PPY4xz74Ccf3F_j1XH7lG4i4l4DRTwnxE_55YDw0mBGuA7i0lQIXpxGIchK4a3zVqJL5vhzVzKEWw",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "511f140e-82ab-4245-9a8f-b3e457f24f72",
+    "Host": "dev.getlinked.ai",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "530"
+}

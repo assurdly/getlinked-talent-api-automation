@@ -1,0 +1,10 @@
+{
+    "first_name": "Lela",
+    "last_name": "Klein",
+    "email": "Wiley.Kuphal@gmail.com",
+    "phone_number": "+23408067715076",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

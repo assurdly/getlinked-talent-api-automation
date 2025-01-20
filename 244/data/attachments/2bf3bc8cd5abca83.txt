@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Mabel","middle_name":null,"last_name":"Hermiston","email":"Jedidiah@mailinator.com","phone_number":"+2348089406921","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
