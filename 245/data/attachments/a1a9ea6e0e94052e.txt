@@ -1,0 +1,10 @@
+{
+    "first_name": "Beverly",
+    "last_name": "Reichel",
+    "email": "Fannie.Goldner24@yahoo.com",
+    "phone_number": "+23408038865716",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
