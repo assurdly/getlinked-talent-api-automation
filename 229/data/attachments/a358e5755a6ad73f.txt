@@ -1,1 +1,0 @@
-{"error":"Username already exists. Please provide a new username to create a portfolio website."}
