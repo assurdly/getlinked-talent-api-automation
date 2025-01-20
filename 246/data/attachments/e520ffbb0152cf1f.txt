@@ -1,0 +1,10 @@
+{
+    "first_name": "Ezequiel",
+    "last_name": "Powlowski",
+    "email": "Madisyn92@yahoo.com",
+    "phone_number": "+23408021972757",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
