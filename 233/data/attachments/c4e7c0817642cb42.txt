@@ -1,4 +1,0 @@
-{
-    "recipient": "Aron@mailinator.com",
-    "otp": "808080"
-}
