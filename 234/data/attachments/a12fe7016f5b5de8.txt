@@ -1,6 +1,0 @@
-{
-    "otp": "207573",
-    "email": "taiwotob@gmail.com",
-    "new_password": "Alliswell2",
-    "confirm_password": "Alliswell2"
-}
