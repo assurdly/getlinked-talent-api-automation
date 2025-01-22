@@ -1,0 +1,10 @@
+{
+    "first_name": "Kylee",
+    "last_name": "Will",
+    "email": "Kiley.Luettgen90@yahoo.com",
+    "phone_number": "+23408039165026",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
