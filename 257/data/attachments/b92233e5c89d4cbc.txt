@@ -1,0 +1,10 @@
+{
+    "first_name": "Ariel",
+    "last_name": "Runolfsdottir",
+    "email": "Carmella@mailinator.com",
+    "phone_number": "+23408051540537",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

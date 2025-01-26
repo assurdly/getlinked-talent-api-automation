@@ -1,0 +1,8 @@
+{
+    "talent_first_name": "Temiloluwa",
+    "talent_last_name": "Ajayi",
+    "talent_email": "temiloluwaajayi1@gmail.com",
+    "talent_phone": "0417654372 ",
+    "talent_dob": "1990-01-01 ",
+    "talent_gender" : "Male"
+}
