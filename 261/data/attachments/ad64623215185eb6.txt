@@ -1,0 +1,10 @@
+{
+    "first_name": "Kurt",
+    "last_name": "Corwin",
+    "email": "Payton65@hotmail.com",
+    "phone_number": "+2340802821708",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
