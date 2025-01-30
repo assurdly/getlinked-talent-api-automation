@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"message":["Error: password should have at least one special character (!@#$%^&*()_+-=[]{}|;:,.<>?)."]},"errors":null}

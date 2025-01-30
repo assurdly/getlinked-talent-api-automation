@@ -1,0 +1,10 @@
+{
+    "first_name": "Izabella",
+    "last_name": "Labadie",
+    "email": "Lucile@mailinator.com",
+    "phone_number": "+23408023760302",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

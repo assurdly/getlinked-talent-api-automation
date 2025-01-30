@@ -1,0 +1,10 @@
+{
+    "first_name": "Americo",
+    "last_name": "Hansen",
+    "email": "Sarah_Hudson@gmail.com",
+    "phone_number": "+23408036074539",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
