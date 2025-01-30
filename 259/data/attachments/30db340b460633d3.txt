@@ -1,0 +1,10 @@
+{
+    "first_name": "Lavada",
+    "last_name": "Gibson",
+    "email": "Johan_McKenzie50@hotmail.com",
+    "phone_number": "+23408059890806",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

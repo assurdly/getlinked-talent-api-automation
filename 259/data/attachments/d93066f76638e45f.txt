@@ -1,0 +1,10 @@
+{
+    "first_name": "Buck",
+    "last_name": "Kautzer",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408059890806",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

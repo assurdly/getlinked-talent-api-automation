@@ -1,0 +1,10 @@
+{
+    "first_name": "Greg",
+    "last_name": "Hintz",
+    "email": "Conrad@mailinator.com",
+    "phone_number": "+23408088767474",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
