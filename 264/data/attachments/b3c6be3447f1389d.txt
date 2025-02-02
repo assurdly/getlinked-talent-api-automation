@@ -1,0 +1,10 @@
+{
+    "first_name": "Jermain",
+    "last_name": "Rau",
+    "email": "Zackary@mailinator.com",
+    "phone_number": "+23408041078607",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
