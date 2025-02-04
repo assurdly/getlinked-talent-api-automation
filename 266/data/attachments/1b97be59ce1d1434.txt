@@ -1,0 +1,10 @@
+{
+    "first_name": "Rylee",
+    "last_name": "Fahey",
+    "email": "Zakary_Collier6@gmail.com",
+    "phone_number": "+23408011057462",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
