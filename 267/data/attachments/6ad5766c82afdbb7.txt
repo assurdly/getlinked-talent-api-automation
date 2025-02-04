@@ -1,0 +1,10 @@
+{
+    "first_name": "Casimir",
+    "last_name": "Botsford",
+    "email": "Marcelo.Boyer@gmail.com",
+    "phone_number": "+23408075321065",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
