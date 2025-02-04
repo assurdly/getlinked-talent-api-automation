@@ -1,0 +1,10 @@
+{
+    "first_name": "Ali",
+    "last_name": "Hintz",
+    "email": "Otho.Kirlin@gmail.com",
+    "phone_number": "+23408087046276",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
