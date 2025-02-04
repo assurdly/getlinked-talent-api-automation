@@ -1,0 +1,10 @@
+{
+    "first_name": "Everette",
+    "last_name": "Konopelski",
+    "email": "Kareem_Fadel@hotmail.com",
+    "phone_number": "+23408082853065",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

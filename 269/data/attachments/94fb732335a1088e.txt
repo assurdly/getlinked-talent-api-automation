@@ -1,0 +1,10 @@
+{
+    "first_name": "Walton",
+    "last_name": "Hagenes",
+    "email": "Chloe@mailinator.com",
+    "phone_number": "+23408035851036",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
