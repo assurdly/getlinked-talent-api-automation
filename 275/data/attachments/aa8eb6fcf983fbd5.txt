@@ -1,0 +1,1 @@
+{"success":true,"status_code":200,"message":"Registration Successful","data":{"first_name":"Ruthie","middle_name":null,"last_name":"Schroeder","email":"Camylle@mailinator.com","phone_number":"+2348027883441","date_of_birth":"1995-12-08","gender":"F","address":null}}

@@ -1,0 +1,10 @@
+{
+    "first_name": "Marilou",
+    "last_name": "Hegmann",
+    "email": "Minnie_Olson@gmail.com",
+    "phone_number": "+2340807540748",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

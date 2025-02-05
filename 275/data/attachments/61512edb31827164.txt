@@ -1,0 +1,10 @@
+{
+    "first_name": "Ruthie",
+    "last_name": "Schroeder",
+    "email": "Camylle@mailinator.com",
+    "phone_number": "+23408027883441",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
