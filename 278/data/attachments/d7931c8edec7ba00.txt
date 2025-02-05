@@ -1,0 +1,10 @@
+{
+    "first_name": "Tony",
+    "last_name": "Cronin",
+    "email": "Dawson.Weber7@hotmail.com",
+    "phone_number": "+23408079022555",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
