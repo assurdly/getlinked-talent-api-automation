@@ -1,0 +1,10 @@
+{
+    "first_name": "Dylan",
+    "last_name": "Schultz",
+    "email": "Ryley1@gmail.com",
+    "phone_number": "+23408047053801",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
