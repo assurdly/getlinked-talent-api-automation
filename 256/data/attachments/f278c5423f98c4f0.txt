@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Alexane","middle_name":null,"last_name":"Schinner","email":"Weston@mailinator.com","phone_number":"+2348013205861","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
