@@ -1,0 +1,10 @@
+{
+    "first_name": "Elwin",
+    "last_name": "Will",
+    "email": "Arturo43@gmail.com",
+    "phone_number": "+23408057227019",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
