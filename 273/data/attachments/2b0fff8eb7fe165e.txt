@@ -1,0 +1,10 @@
+{
+    "first_name": "Willa",
+    "last_name": "Sipes",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408026866016",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
