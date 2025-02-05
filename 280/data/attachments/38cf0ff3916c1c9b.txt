@@ -1,0 +1,10 @@
+{
+    "first_name": "Henriette",
+    "last_name": "Block",
+    "email": "Stacy_Luettgen@yahoo.com",
+    "phone_number": "+23408028461482",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

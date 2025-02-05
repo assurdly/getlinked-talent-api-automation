@@ -1,0 +1,10 @@
+{
+    "first_name": "Bianka",
+    "last_name": "Hahn",
+    "email": "Jo@mailinator.com",
+    "phone_number": "+23408089872426",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
