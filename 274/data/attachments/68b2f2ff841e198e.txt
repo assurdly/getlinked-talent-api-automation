@@ -1,0 +1,10 @@
+{
+    "first_name": "Toney",
+    "last_name": "Okuneva",
+    "email": "Lizzie_Ritchie@yahoo.com",
+    "phone_number": "+23408066551365",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

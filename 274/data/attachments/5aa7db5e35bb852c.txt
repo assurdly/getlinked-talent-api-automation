@@ -1,0 +1,10 @@
+{
+    "first_name": "Noelia",
+    "last_name": "Pfeffer",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408066361625",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

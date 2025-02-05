@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Isac","middle_name":null,"last_name":"Friesen","email":"Deborah@mailinator.com","phone_number":"+2348024407307","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
