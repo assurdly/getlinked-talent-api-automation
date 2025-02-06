@@ -1,0 +1,10 @@
+{
+    "first_name": "Rosina",
+    "last_name": "Tillman",
+    "email": "Frederic@mailinator.com",
+    "phone_number": "+23408016073264",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
