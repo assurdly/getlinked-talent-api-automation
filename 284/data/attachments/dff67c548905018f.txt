@@ -1,0 +1,1 @@
+{"success":true,"status_code":200,"message":"Registration Successful","data":{"first_name":"Emiliano","middle_name":null,"last_name":"Rice","email":"Onie@mailinator.com","phone_number":"+2348033534271","date_of_birth":"1995-12-08","gender":"F","address":null}}
