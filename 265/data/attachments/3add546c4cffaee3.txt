@@ -1,1 +1,0 @@
-{"success":true,"status_code":200,"message":"Registration Successful","data":{"first_name":"Leo","middle_name":null,"last_name":"Kuhn","email":"Rosamond@mailinator.com","phone_number":"+2348092956263","date_of_birth":"1995-12-08","gender":"F","address":null}}
