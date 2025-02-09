@@ -1,0 +1,10 @@
+{
+    "first_name": "Lucio",
+    "last_name": "Schuppe",
+    "email": "Claude_Ruecker@hotmail.com",
+    "phone_number": "+23408061215818",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

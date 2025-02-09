@@ -1,0 +1,10 @@
+{
+    "first_name": "Jennie",
+    "last_name": "Pacocha",
+    "email": "Dovie89@gmail.com",
+    "phone_number": "+23408032086212",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
