@@ -1,0 +1,10 @@
+{
+    "first_name": "Brian",
+    "last_name": "Waelchi",
+    "email": "Will28@yahoo.com",
+    "phone_number": "+23408034393041",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

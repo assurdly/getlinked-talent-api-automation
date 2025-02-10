@@ -1,1 +1,0 @@
-{"success":true,"status_code":200,"message":"Registration Successful","data":{"first_name":"Olaf","middle_name":null,"last_name":"Corkery","email":"Ben@mailinator.com","phone_number":"+2348012029830","date_of_birth":"1995-12-08","gender":"F","address":null}}
