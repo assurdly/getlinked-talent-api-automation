@@ -1,0 +1,10 @@
+{
+    "first_name": "Mathias",
+    "last_name": "Morissette",
+    "email": "Ruth@mailinator.com",
+    "phone_number": "+23408032698337",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

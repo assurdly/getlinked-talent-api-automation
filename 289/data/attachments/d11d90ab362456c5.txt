@@ -1,0 +1,1 @@
+{"success":true,"status_code":200,"message":"Registration Successful","data":{"first_name":"Mathias","middle_name":null,"last_name":"Morissette","email":"Ruth@mailinator.com","phone_number":"+2348032698337","date_of_birth":"1995-12-08","gender":"F","address":null}}
