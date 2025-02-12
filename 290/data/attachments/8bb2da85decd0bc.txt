@@ -1,0 +1,10 @@
+{
+    "first_name": "Jaime",
+    "last_name": "Jacobson",
+    "email": "Emilio_Beahan78@hotmail.com",
+    "phone_number": "+2340804473549",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
