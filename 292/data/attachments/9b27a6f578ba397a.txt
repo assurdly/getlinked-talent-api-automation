@@ -1,0 +1,10 @@
+{
+    "first_name": "Liza",
+    "last_name": "Walsh",
+    "email": "Prudence@mailinator.com",
+    "phone_number": "+23408093779511",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

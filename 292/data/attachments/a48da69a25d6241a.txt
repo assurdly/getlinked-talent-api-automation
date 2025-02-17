@@ -1,0 +1,10 @@
+{
+    "first_name": "Naomie",
+    "last_name": "Farrell",
+    "email": "Vergie0@yahoo.com",
+    "phone_number": "+23408084219751",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
