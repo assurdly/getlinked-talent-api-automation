@@ -1,0 +1,10 @@
+{
+    "first_name": "Alia",
+    "last_name": "Pacocha",
+    "email": "Ida.Dietrich83@hotmail.com",
+    "phone_number": "+23408026439543",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
