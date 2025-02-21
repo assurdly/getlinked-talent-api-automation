@@ -1,0 +1,10 @@
+{
+    "first_name": "Eva",
+    "last_name": "Cormier",
+    "email": "Rodger.Gibson@yahoo.com",
+    "phone_number": "+23408063260070",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
