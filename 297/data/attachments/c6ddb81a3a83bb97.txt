@@ -1,0 +1,10 @@
+{
+    "first_name": "Prudence",
+    "last_name": "Koelpin",
+    "email": "Guillermo@mailinator.com",
+    "phone_number": "+23408062672453",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

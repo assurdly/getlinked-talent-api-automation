@@ -1,0 +1,10 @@
+{
+    "first_name": "Dorian",
+    "last_name": "Trantow",
+    "email": "Torrance32@yahoo.com",
+    "phone_number": "+23408027149698",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
