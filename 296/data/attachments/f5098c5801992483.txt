@@ -1,0 +1,10 @@
+{
+    "first_name": "Avery",
+    "last_name": "Wolff",
+    "email": "Eulalia.Zulauf93@gmail.com",
+    "phone_number": "+23408011175482",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
