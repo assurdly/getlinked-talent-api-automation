@@ -1,0 +1,10 @@
+{
+    "first_name": "Brad",
+    "last_name": "Pfannerstill",
+    "email": "Kaylee20@yahoo.com",
+    "phone_number": "+23408071206683",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

@@ -1,1 +1,0 @@
-{"success":true,"status_code":200,"message":"Registration Successful","data":{"first_name":"Katelyn","middle_name":null,"last_name":"Howe","email":"Kristofer@mailinator.com","phone_number":"+2348078787170","date_of_birth":"1995-12-08","gender":"F","address":null}}
