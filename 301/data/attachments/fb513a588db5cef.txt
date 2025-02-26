@@ -1,0 +1,10 @@
+{
+    "first_name": "Sarai",
+    "last_name": "Langosh",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408036658328",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

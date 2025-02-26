@@ -1,0 +1,12 @@
+{
+    "Server": "nginx/1.24.0 (Ubuntu)",
+    "Date": "Wed, 26 Feb 2025 18:16:57 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "181931",
+    "Connection": "keep-alive",
+    "X-Frame-Options": "DENY",
+    "Vary": "origin, Cookie",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin"
+}

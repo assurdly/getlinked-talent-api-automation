@@ -1,0 +1,10 @@
+{
+    "first_name": "Kristy",
+    "last_name": "Olson",
+    "email": "Imani.Ritchie@gmail.com",
+    "phone_number": "+2340802001318",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
