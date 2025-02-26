@@ -1,1 +1,0 @@
-{"success":true,"status_code":200,"message":"Verification Successful","data":{"status":true,"message":"USER PROFILE was verified successfully."}}
