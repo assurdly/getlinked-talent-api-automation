@@ -1,0 +1,10 @@
+{
+    "first_name": "Werner",
+    "last_name": "Lakin",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408014395642",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
