@@ -1,0 +1,10 @@
+{
+    "first_name": "Corene",
+    "last_name": "Bartoletti",
+    "email": "Eloisa_McKenzie@gmail.com",
+    "phone_number": "+23408097957734",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

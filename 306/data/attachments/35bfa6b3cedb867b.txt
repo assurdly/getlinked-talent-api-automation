@@ -1,0 +1,10 @@
+{
+    "first_name": "Jaleel",
+    "last_name": "Leuschke",
+    "email": "Natasha.Frami41@hotmail.com",
+    "phone_number": "+23408019326912",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
