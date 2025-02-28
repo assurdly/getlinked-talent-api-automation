@@ -1,0 +1,10 @@
+{
+    "first_name": "Estefania",
+    "last_name": "Ryan",
+    "email": "Frieda_Kub46@hotmail.com",
+    "phone_number": "+23408023342161",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
