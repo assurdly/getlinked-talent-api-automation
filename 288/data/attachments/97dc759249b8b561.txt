@@ -1,1 +1,0 @@
-{"message": "Username already exists", "suggestions": ["theexoticdev3524/paybox", "theexoticdev5329/paybox", "theexoticdev5833/paybox", "theexoticdev5931/paybox"]}
