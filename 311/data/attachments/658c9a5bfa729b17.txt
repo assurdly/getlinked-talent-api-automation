@@ -1,0 +1,10 @@
+{
+    "first_name": "Jalon",
+    "last_name": "Bayer",
+    "email": "Kyra_Senger94@yahoo.com",
+    "phone_number": "+23408063607899",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
