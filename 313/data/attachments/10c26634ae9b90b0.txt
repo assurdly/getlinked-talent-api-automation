@@ -1,0 +1,10 @@
+{
+    "first_name": "Piper",
+    "last_name": "Schaefer",
+    "email": "Katelyn@mailinator.com",
+    "phone_number": "+23408080637441",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

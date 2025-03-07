@@ -1,0 +1,1 @@
+{"success":true,"status_code":200,"message":"Registration Successful","data":{"first_name":"Piper","middle_name":null,"last_name":"Schaefer","email":"Katelyn@mailinator.com","phone_number":"+2348080637441","date_of_birth":"1995-12-08","gender":"F","address":null}}

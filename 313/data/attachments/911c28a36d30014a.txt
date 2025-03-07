@@ -1,0 +1,4 @@
+{
+    "email": "test_talent_dev01@guerrillamail.com",
+    "password": "Password12$ "
+}
