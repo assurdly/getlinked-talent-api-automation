@@ -1,0 +1,10 @@
+{
+    "first_name": "Kevon",
+    "last_name": "Brakus",
+    "email": "Harley.Ferry@yahoo.com",
+    "phone_number": "+2340808970037",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

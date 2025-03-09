@@ -1,0 +1,10 @@
+{
+    "first_name": "Electa",
+    "last_name": "Haag",
+    "email": "Amely@mailinator.com",
+    "phone_number": "+23408021204839",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
