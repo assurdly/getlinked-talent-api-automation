@@ -1,0 +1,10 @@
+{
+    "first_name": "Junior",
+    "last_name": "Cole",
+    "email": "Judson.Abbott@yahoo.com",
+    "phone_number": "+2340804399195",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

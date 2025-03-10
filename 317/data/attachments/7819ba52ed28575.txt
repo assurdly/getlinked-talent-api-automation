@@ -1,0 +1,10 @@
+{
+    "first_name": "Tyler",
+    "last_name": "Kovacek",
+    "email": "Serena@mailinator.com",
+    "phone_number": "+23408057187015",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
