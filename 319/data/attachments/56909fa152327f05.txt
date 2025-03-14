@@ -1,0 +1,10 @@
+{
+    "first_name": "Scarlett",
+    "last_name": "Wilderman",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408088519702",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
