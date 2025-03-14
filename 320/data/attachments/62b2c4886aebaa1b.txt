@@ -1,0 +1,10 @@
+{
+    "first_name": "Breanna",
+    "last_name": "O'Kon",
+    "email": "Braeden_Friesen@gmail.com",
+    "phone_number": "+2340802367546",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

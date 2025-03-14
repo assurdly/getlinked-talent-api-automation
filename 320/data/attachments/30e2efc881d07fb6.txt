@@ -1,0 +1,10 @@
+{
+    "first_name": "April",
+    "last_name": "Cassin",
+    "email": "Barney89@hotmail.com",
+    "phone_number": "+2340808775223",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
