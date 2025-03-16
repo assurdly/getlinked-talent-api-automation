@@ -1,1 +1,0 @@
-{"success":true,"status_code":200,"message":"OTP resent successfully.","data":{}}

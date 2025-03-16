@@ -1,1 +1,0 @@
-{"cover_letter_body":["cover_letter_body cannot be blank"]}

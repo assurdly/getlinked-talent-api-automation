@@ -1,1 +1,0 @@
-{"cv_file":["CV File field is required."],"role":["Role field is required."]}

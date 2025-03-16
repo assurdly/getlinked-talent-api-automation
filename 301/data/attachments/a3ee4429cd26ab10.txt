@@ -1,1 +1,0 @@
-{"success":true,"status_code":200,"message":"Cover Letter updated successfully","data":{}}

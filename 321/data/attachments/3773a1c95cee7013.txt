@@ -1,0 +1,10 @@
+{
+    "first_name": "Lilla",
+    "last_name": "Lind",
+    "email": "Rodger.Schulist53@hotmail.com",
+    "phone_number": "+23408067559578",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
