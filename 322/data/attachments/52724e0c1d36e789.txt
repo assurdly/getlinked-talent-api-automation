@@ -1,0 +1,10 @@
+{
+    "first_name": "Bernie",
+    "last_name": "Schmeler",
+    "email": "Blake@mailinator.com",
+    "phone_number": "+23408038124261",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
