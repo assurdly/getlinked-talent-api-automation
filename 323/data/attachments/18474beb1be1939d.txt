@@ -1,0 +1,10 @@
+{
+    "first_name": "Tyrese",
+    "last_name": "Tromp",
+    "email": "Name.Schuppe@hotmail.com",
+    "phone_number": "+23408052082329",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
