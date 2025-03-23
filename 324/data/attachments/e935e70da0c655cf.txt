@@ -1,0 +1,10 @@
+{
+    "first_name": "Euna",
+    "last_name": "Dach",
+    "email": "Leopold.Halvorson38@gmail.com",
+    "phone_number": "+23408047903619",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

@@ -1,0 +1,10 @@
+{
+    "first_name": "Hector",
+    "last_name": "Hartmann",
+    "email": "Micah_Hoeger@yahoo.com",
+    "phone_number": "+23408042051957",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

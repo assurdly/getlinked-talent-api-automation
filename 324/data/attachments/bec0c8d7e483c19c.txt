@@ -1,0 +1,10 @@
+{
+    "first_name": "Demario",
+    "last_name": "Goyette",
+    "email": "Beaulah@mailinator.com",
+    "phone_number": "+23408013182239",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
