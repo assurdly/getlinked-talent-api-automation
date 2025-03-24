@@ -1,0 +1,10 @@
+{
+    "first_name": "Mariah",
+    "last_name": "Ebert",
+    "email": "Dylan.Schaden@hotmail.com",
+    "phone_number": "+23408096123015",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
